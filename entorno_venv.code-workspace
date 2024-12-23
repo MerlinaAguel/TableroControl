@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "entorno_venv"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}

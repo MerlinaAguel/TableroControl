@@ -1,0 +1,356 @@
+﻿SKU;título; COST S/IMP ; COST C/IMP ;PVP
+1;Coloración Tono sobre Tono Kit;4.311,93;5.217,44;8696,00
+2;Coloración Fortalece. Masculina;4.664,90;5.644,53;9408,00
+3;Fija+Más 20 vol. Proteínas x 70;1.457,38;1.763,43;2939,00
+4;Fija+30Vol Proteínas x 70ml;1.611,45;1.949,85;3250,00
+5;Fija+Más 20 Vol.Hierbas x70ml;1.465,90;1.773,74;2956,00
+6;Fija+Más 30 Vol.Hierbas x70 ml;1.559,40;1.886,87;3145,00
+7;Fija+Más 20 Vol.Hier.Aplica x70;1.778,60;2.152,11;3587,00
+9;Tine+Más Aditivo en Ampollas;1.528,29;1.849,23;3082,00
+11;Coloración Ultrahidratante x 50;2.432,62;2.943,47;4906,00
+12;Bio Color Coloración con Shock;4.235,62;5.125,10;8542,00
+13;Bio Color Coloración 0% amoníaco;4.664,90;5.644,53;9408,00
+14;Coloración Ultrahidratante con Shock Vit;2.690,19;3.255,13;5425,00
+24;Recuperador Capilar B5 x 500gr;9.386,84;11.358,08;18930,00
+35;Shampoo Gel Potenci.1007 x200ml;3.947,74;4.776,76;7961,00
+36;Shampoo Gel Potenci.1007 x400ml;6.354,76;7.689,26;12815,00
+46;Spray Anti-Humedad Aero x200ml;6.143,18;7.433,25;12389,00
+47;Champú Manzanilla x200ml;3.245,92;3.927,56;6546,00
+48;Champú Manzanilla x400ml;4.934,67;5.970,95;9952,00
+49;Balsam con Manzanilla x200ml;3.245,92;3.927,56;6546,00
+50;Balsam con Manzanilla x400ml;4.934,67;5.970,95;9952,00
+52;"Nutri-Champú c/Vit. ""E"" x200ml";3.531,03;4.272,55;7121,00
+53;"Nutri-Champú c/Vit. ""E"" x400ml";5.208,82;6.302,67;10504,00
+55;"Nutri-Balsam c/Vit. ""E"" x200ml";3.531,03;4.272,55;7121,00
+56;"Nutri-Balsam c/Vit. ""E"" x400ml";5.469,26;6.617,81;11030,00
+59;Champú Super Especial 1053x200;3.223,99;3.901,02;6502,00
+60;Champú Super Especial 1053x400;5.066,26;6.130,18;10217,00
+62;Shampoo 1007 x200ml;3.245,92;3.927,56;6546,00
+63;Shampoo 1007 x400ml;5.121,09;6.196,52;10328,00
+65;Champú Neutro Algas x200ml;3.169,16;3.834,68;6391,00
+66;Champú Neutro Algas x400ml;4.963,29;6.005,58;10009,00
+68;Balsam c/Extr. de Algas x200ml;3.169,16;3.834,68;6391,00
+69;Balsam c/Extr. de Algas x400ml;4.638,59;5.612,70;9354,00
+74;Champú Aceite de Jojoba x200ml;3.300,75;3.993,90;6657,00
+75;Champú Aceite de Jojoba x400ml;4.956,60;5.997,49;9996,00
+77;Balsam con Ac. de Jojoba x200ml;3.300,75;3.993,90;6657,00
+78;Balsam con Ac. de Jojoba x400ml;4.956,60;5.997,49;9996,00
+90;Balsam Vitaminado x200ml;3.027,70;3.663,51;6106,00
+91;Balsam Vitaminado x400ml;4.686,29;5.670,42;9451,00
+93;Fija+Más 30 Vol Proteínas x75;1.654,92;2.002,46;3337,00
+94;Fija+Más 20 Vol.Hierbas x75ml;1.573,26;1.903,65;3173,00
+99;Champú Anticloro x250ml;4.770,16;5.771,89;9620,00
+100;Sistema de Coloración Anti - Age;4.662,83;5.642,02;9403,00
+101;Savia c/Salvia y Siliconas x250;4.194,43;5.075,26;8459,00
+102;Savia c/Salvia y Siliconas x400;5.429,45;6.569,63;10949,00
+103;Savia c/Salvia y Fil. Solar x250;4.008,60;4.850,41;8084,00
+112;Champú Aloe Vera x200ml;3.509,10;4.246,01;7077,00
+113;Champú Aloe Vera x400ml;5.492,03;6.645,36;11076,00
+114;Balsam Aloe Vera x200ml;3.509,10;4.246,01;7077,00
+115;Balsam Aloe Vera x400ml;5.263,20;6.368,47;10614,00
+118;Champú Trío para Niños x250ml;5.007,09;6.058,58;10098,00
+119;Champú para Niños Rojo x250ml;4.938,81;5.975,96;9960,00
+120;Champú para Niños Azul x250ml;4.938,81;5.975,96;9960,00
+121;Desenredante para Niños x250ml;4.573,06;5.533,40;9222,00
+138;Espuma Fijadora Aerosol x240m;6.943,53;8.401,67;14003,00
+144;Champú Bifermix x200ml;3.762,40;4.552,51;7588,00
+145;Champú Bifermix x400ml;5.753,04;6.961,18;11602,00
+146;Balsamo Bifermix x200ml;3.762,40;4.552,51;7588,00
+147;Balsamo Bifermix x400ml;5.753,04;6.961,18;11602,00
+153;Champú Colageno 1019 x200ml;3.169,16;3.834,68;6391,00
+154;Champú Colageno 1019 x400ml;5.153,99;6.236,33;10394,00
+157;Brillo c/Siliconas Shine x290;6.161,99;7.456,01;12427,00
+161;Champú Ginkgo Biloba Finos x200;3.585,86;4.338,89;7231,00
+162;Champú Ginkgo Biloba Finos x400;5.877,65;7.111,96;11853,00
+171;Champú Ceramidas x250ml;5.574,14;6.744,71;11241,00
+172;Champú Ceramidas x400ml;7.624,43;9.225,56;15376,00
+173;Bálsamo con Ceramidas x250ml;4.791,25;5.797,41;9662,00
+174;Bálsamo con Ceramidas x400ml;6.420,06;7.768,27;12947,00
+180;Keratina Líquida+Glycoceramida;5.968,17;7.221,48;12036,00
+181;Champú Keratina 1044 x200ml;3.169,16;3.834,68;6391,00
+182;Champú Keratina 1044 x400ml;5.208,82;6.302,67;10504,00
+196;Shampoo U/Brillo c/Pro.dePerla;6.445,89;7.799,52;12999,00
+198;Balsam U/Brillo c/Pro.dePerla;5.930,22;7.175,56;11959,00
+199;Crema para Peinar Ultra Brillo;7.230,72;8.749,17;14582,00
+201;Spray para Peinar Atomiza.x150;4.398,16;5.321,77;8870,00
+202;Champú Libre de Sulfatos x255;8.060,86;9.753,64;16256,00
+204;Balsam Dermoprotector x255;6.464,11;7.821,57;13036,00
+209;Champú Manzana Verde x400ml;5.033,37;6.090,37;10151,00
+210;Champú R.Mosqueta Orgánico x255;5.410,97;6.547,27;10912,00
+212;Balsam R.Mosqueta Orgánico x255;5.142,65;6.222,61;10371,00
+213;Máscara Rosa Mosqueta Orgánica x 150ml;4.873,10;5.896,45;9827,00
+225;Crema p/Peinar Rulos x270gr;7.253,63;8.776,89;14628,00
+234;Champú Semilla de Lino x200ml;3.585,86;4.338,89;7231,00
+235;Champú Semilla de Lino x400ml;5.680,08;6.872,90;11455,00
+237;Balsam Semilla de Lino x200ml;3.585,86;4.338,89;7231,00
+238;Balsam Semilla de Lino x400ml;5.680,08;6.872,90;11455,00
+239;Baño Crema Semilla de Lino x115;3.658,18;4.426,40;7377,00
+243;Champú Hipoalergénico x250ml;6.254,88;7.568,40;12614,00
+247;Champú p/Cab.Trat. c/Color x250;5.627,19;6.808,90;11348,00
+248;Champú p/Cab.Trat. c/Color x400;7.201,92;8.714,32;14524,00
+249;Balsam p/Cab.Trat. c/Color x250;7.546,29;9.131,01;15218,00
+250;Balsam p/Cab.Trat. c/Color x400;10.521,06;12.730,49;21217,00
+257;"Nutri-Champú c/Vit.""E"" x800ml";8.111,17;9.814,51;16358,00
+259;"Nutri-Balsam c/Vit.""E""x800ml";8.922,29;10.795,97;17993,00
+260;Champú con Bioxidil x250ml;9.760,08;11.809,69;19683,00
+264;Shampoo 1007 x800ml;7.939,34;9.606,60;16011,00
+267;Champú Te Verde Green Tea x200;4.188,99;5.068,68;8448,00
+272;Champú Hidrata. Intensa x400ml;7.178,94;8.686,51;14478,00
+274;Balsam Hidrata. Intensa x400ml;9.162,07;11.086,11;18477,00
+285;Bálsamo Acondici. Triple Acción;6.897,36;8.345,80;13910,00
+289;Tratami. de Cauterización 1+2+3;5.737,31;6.942,14;11570,00
+291;Champú c/Argan y Amin.Seda x250;5.321,53;6.439,05;10732,00
+295;Balsam c/Argan y Amin.Seda x250;5.179,23;6.266,87;10445,00
+297;Baño Crema c/Argan Pomo 115gr;4.647,11;5.623,00;9372,00
+298;Óleo de Argan p/T.Cabe.12x10ml;44.415,92;53.743,27;7464,00
+316;Brilla+Más Aditivo p/Color.Amp.;1.621,53;1.962,05;3270,00
+318;Pic-Out Aditivo Ampolla x3ml;2.187,67;2.647,08;4412,00
+320;Champú Ortiga y Quinina x295ml;3.985,81;4.822,83;8038,00
+322;Balsam Ortiga y Quinina x295ml;3.951,05;4.780,77;7968,00
+328;Champú p/Caída y Caspa de Orti;5.814,39;7.035,42;11726,00
+379;Shampoo Gel Potenci.1007x800ml;10.594,10;12.818,86;21365,00
+381;Champú Phytoplus Cítrico x200;3.904,06;4.723,91;7873,00
+383;Champú Phytoplus Cítrico x400;5.691,32;6.886,50;11477,00
+386;Champú Anti-Quiebre c/SKx250ml;7.245,97;8.767,62;14613,00
+392;Balsam Vitaminado x800ml;7.601,39;9.197,68;15329,00
+395;Cera Capilar Styling x95gr.;4.283,71;5.183,29;8639,00
+401;Máscara Ácida Biocolor 0% pote;6.279,73;7.598,47;12664,00
+402;Champú Sell.Bio Color 0% x400g;7.255,27;8.778,88;14631,00
+407;Balsamo Sell.Bio Color 0% x400g;10.158,67;12.291,99;20487,00
+409;Trat Cap Nº1 c/Ac Hialu24x20x1;19.664,20;23.793,69;1652,00
+411;Champú de Jengibre x250ml;4.544,66;5.499,04;9165,00
+413;Balsam de Jengibre x250ml;4.544,66;5.499,04;9165,00
+415;Cápsulas Glycocera+Multivi x24u.;26.578,44;32.159,91;2233,00
+417;Trat Cap Nº2 Ac ArgyCam24x20x1;19.664,20;23.793,69;1652,00
+423;Trata.Nº1 Capi-Ac.Hial.2x24Sac;38.782,18;46.926,44;1629,00
+427;Trata.Nº2 Capi-Arg-Cam.2x24Sac;38.782,18;46.926,44;1629,00
+431;Trata.Nº3 Capi-Ac.Palta 2x24Sa;38.782,18;46.926,44;1629,00
+433;Trata. Nº4 Capi-Coco x24sac;18.689,12;22.613,83;1570,00
+434;Trata.Nº4 Capi-Ac.Coco 2x24Sac;36.859,10;44.599,51;1549,00
+437;Champú con Cafeína x 295 ml;5.027,27;6.082,99;10138,00
+438;Trata. Nº3 Capi-Ac. Palta x24sac;19.664,20;23.793,69;1652,00
+439;Bálsamo con Cafeína x 295 ml;4.625,09;5.596,35;9327,00
+441;Baño Cr.Anticaid.c/Cafe.x125gr;3.684,56;4.458,31;7431,00
+448;Champú p/Tratami.Alisado x295m;7.620,38;9.220,66;15368,00
+450;Balsam p/Tratami.Alisado x295m;8.240,89;9.971,47;16619,00
+454;Crema p/Peinar c/Alisado x155g;6.885,32;8.331,24;13885,00
+455;Máscara p/ Cabellos Alisados pote;7.624,67;9.225,86;15376,00
+457;1´Minuto Trata.Recons.12x15gr;24.975,46;30.220,31;4197,00
+458;Spray para Peinar Oro y Caviar;5.065,18;6.128,86;10215,00
+460;Champú para Pediculosis x250m;9.628,51;11.650,49;19417,00
+463;Champú Cerveza y Miel  x 250ml;4.762,93;5.763,15;9605,00
+467;Champú Neutro Algas x800ml;7.726,00;9.348,46;15581,00
+470;Balsam c/Extr.de Algas x800ml;7.726,00;9.348,46;15581,00
+471;Champú Moringa/Keratina x200ml;3.969,67;4.803,30;8006,00
+472;Champú Moringa/Keratina x400ml;6.253,30;7.566,50;12611,00
+473;Balsam Moringa/Keratina x200ml;3.772,83;4.565,12;7609,00
+474;Balsam Moringa/Keratina x400ml;5.753,04;6.961,18;11602,00
+475;Baño de Crema Moringa/Keratina;4.377,31;5.296,55;8828,00
+481;Champú Spirulina x400ml;5.537,80;6.700,74;11168,00
+483;Balsam Spirulina x400ml;4.848,58;5.866,78;9778,00
+484;Baño de Crema Spirulina x115gr;4.067,37;4.921,51;8203,00
+485;Champú Extr.Oliva Ecocert x300;5.353,03;6.477,17;10795,00
+487;Balsam Extr.Oliva Ecocert x300;5.087,59;6.155,99;10260,00
+493;Champú 100% Vegano x200ml;4.173,59;5.050,04;8417,00
+495;Balsam 100% Vegano x200ml;5.160,60;6.244,33;10407,00
+497;Acondiciona. Vitaminado s/Enjua.;5.359,55;6.485,06;10808,00
+498;Óleo de Argan Frasco x30ml;8.914,22;10.786,21;17977,00
+499;Óleo de Argan Frasco x58ml;11.910,66;14.411,90;24020,00
+600;Champú Renovación Celular x200;5.299,31;6.412,17;10687,00
+602;Balsam Renovación Celular x200;4.275,47;5.173,32;8622,00
+607;Champú Anti - Amarillo x 295ml;5.310,14;6.425,26;10709,00
+608;Champú Anti-Amarillo Sachet x 24;20.438,47;24.730,55;1717,00
+609;Máscara Anti Amarillo pote;5.575,09;6.745,86;11243,00
+610;Champú Libre de Gluten x180gr;5.142,65;6.222,61;10371,00
+612;Balsam Libre de Gluten x180gr;5.142,65;6.222,61;10371,00
+614;Baño Cre.Libre de Gluten x125g;4.717,59;5.708,28;9514,00
+617;Puro Henna Natural Cereza x 80 gr;12.881,29;15.586,36;25977,00
+618;Puro Henna Natural Tiziano x 80 gr;12.881,29;15.586,36;25977,00
+620;Champú 1 c/Ac.Hialurónico x295;4.146,21;5.016,92;8362,00
+621;Balsam 1 c/Ac.Hialurónico x295;4.146,21;5.016,92;8362,00
+622;Champú 2 c/Ac.Argan y Came x295;4.312,06;5.217,59;8696,00
+623;Balsam 2 C/Ac.Argan y Came x295;4.146,21;5.016,92;8362,00
+624;Champú 3 con aceite de Palta x 295 ml;4.768,14;5.769,45;9616,00
+625;Balsam 3 con aceite de Palta x 295g;4.146,21;5.016,92;8362,00
+626;Champú 4 con aceite de Coco  x 295ml;4.146,21;5.016,92;8362,00
+627;Balsam 4 con aceite de Coco x 295g;4.146,21;5.016,92;8362,00
+639;Champú Proteínas de Soja x 400ml;5.334,34;6.454,55;10758,00
+641;Balsam Proteínas de Soja x 400ml;5.529,48;6.690,68;11151,00
+645;Estuche Champú Anti Naranja 1x24x20ml;20.350,37;24.623,95;1710,00
+646;Champú Anti Naranja;5.310,11;6.425,23;10709,00
+647;Máscara Anti Naranja pote;5.575,09;6.745,86;11243,00
+648;Champú Anti Rojizo;5.310,11;6.425,23;10709,00
+649;Máscara Anti Rojizo pote;5.575,09;6.745,86;11243,00
+650;Estuche Champú Anti Rojizo 1x24x20ml;20.350,37;24.623,95;1710,00
+651;Shampoo Oleo de Argán x 200ml;5.791,52;7.007,74;11680,00
+652;Balsam Oleo de Argán x 200ml;5.791,52;7.007,74;11680,00
+653;Máscara Oleo de Argán pote x 150ml;6.008,49;7.270,27;12117,00
+654;Acond. Bifás. s/enj. Oleo de Argán x 150ml;9.379,19;11.348,82;18915,00
+656;Hairstick Antifrizz Capilar x 12ml;8.168,89;9.884,36;15700,00
+667;Bruma Capilar Perfumada x 170ml;9.324,86;11.283,08;17950,00
+697;Champu Chia x400ml;5.033,37;6.090,37;10151,00
+699;Balsam Chia x395g/400ml;5.714,35;6.914,36;11524,00
+700;Alcohol en gel x 250 ml;3.529,72;4.270,97;7118,00
+701;Kit color Fantasy Aquamarine x90ml;6.273,97;7.591,51;12653,00
+701;Kit color Fantasy Azul Caribe x90ml;6.273,97;7.591,51;12653,00
+701;Kit color Fantasy Magenta x90ml;6.273,97;7.591,51;12653,00
+701;Kit color Fantasy Naranja x90ml;6.273,97;7.591,51;12653,00
+701;Kit color Fantasy Rojo x90ml;6.273,97;7.591,51;12653,00
+701;Kit color Fantasy Violeta x90ml;6.273,97;7.591,51;12653,00
+702;Máscara Ultra Brillo pote;5.478,04;6.628,42;11047,00
+703;Polvo Decolorante Estuche 1x24 x20g;66.100,38;79.981,47;5554,00
+707;AMPOLLA 1007 c/Ext. Vegetales & Oligoelementos p/caída leve;2.831,45;3.426,06;5710,00
+711;AMPOLLA 011 c/Rosa Mosqueta & Aminoácidos p/secos o resecos;2.895,84;3.503,97;5840,00
+712;SPRAY FIJADOR CON SILICONAS;6.671,02;8.071,93;12915,00
+713;SPRAY ANTIHUMEDAD;6.969,42;8.433,00;13492,00
+714;MOUSSE ESPUMA MODELADORA;6.183,66;7.482,23;11970,00
+715;BRILLO SHINE ULTRA LIGERO;6.842,79;8.279,78;13250,00
+722;AMPOLLA 022 c/Ac. Hialurónico & Vitam.C p/trat. químico;2.981,60;3.607,74;6013,00
+727;Champú p/ Recuperación Capilar P+T x 300ml;5.924,34;7.168,45;11947,00
+728;AMPOLLA P+T c/Proteínas & Tricopéptidos p/caída localizada;3.110,11;3.763,24;6272,00
+730;Champú P+T c/ Octopirox para la caspa y caída x 300ml;8.642,30;10.457,19;17429,00
+737;AMPOLLA 1007 Pontencializado c/Vitam.B & Tomillo p/caída severa;2.981,34;3.607,42;6012,00
+741;Champú P+T para la seborrea c/ Sepicontrol x 300ml;6.865,66;8.307,44;13846,00
+744;AMPOLLA 1044 c/Keratina Hidrolizada p/grasos;2.831,45;3.426,06;5710,00
+751;SPRAY MANZANILLA BIFASE x 150ml;7.332,91;8.872,82;14788,00
+755;AMPOLLA 055 c/Oleo de Semillas Lino p/quebradizos y maltratados;3.260,26;3.944,92;6575,00
+759;AMPOLLA SHOCK DE KERATINA c/Oro & Caviar p/finos y desvitalizados;2.852,83;3.451,92;5753,00
+762;AMPOLLA BIOXIDIL c/Silanol & citopeptinas p/caía finos y frágiles;3.389,03;4.100,73;6835,00
+763;Loción Bioxidil Fortalecedora y Engrosadora;12.039,89;14.568,26;24280,00
+775;Máscara de Hidratación con Glycoceramidas x 150ml;4.941,06;5.978,68;9964,00
+780;Máscara Aceite de Jojoba x 150ml;4.744,35;5.740,67;9568,00
+786;Tratamiento instantáneo Anti- Frizz x 155ml;5.432,32;6.573,11;10955,00
+789;Champú Reflejante Plata x295ml;7.102,30;8.593,78;14323,00
+790;Máscara Reflejante Plata pote;6.897,31;8.345,74;13910,00
+791;Estuche Champú Reflejante Plata 1x24x20ml;24.420,43;29.548,73;2052,00
+796;Máscara 100% Veganos con Keratina Vegetal x 150ml;4.228,69;5.116,72;8528,00
+803;Masc.Renovacion Celular Pote x150ml;6.008,49;7.270,27;12117,00
+807;Pantalla Cap. c/Proteínas Vegetales y UV x155ml;4.090,41;4.949,39;8249,00
+827;Nutri Serum Reparador de Puntas con Vitamina E;11.031,21;13.347,76;22246,00
+830;Protector Térmico con Ácido Hialurónico y Filtro UV Atomiza.x250;6.026,20;7.291,70;12153,00
+845;Cristales Liquidos x30 ml;8.431,73;10.202,39;17004,00
+851;Máscara Protección Color con Filtro UV x 150ml;6.492,35;7.855,74;13093,00
+858;Máscara Nutricream x 150ml;4.137,37;5.006,22;8344,00
+8;Fija+Mas 20 Vol.Hierbas x150ml;1.612,85;1.951,55;3253,00
+10;Bio Color Express 10 min Kit;3.605,11;4.362,19;7270,00
+15;Champú Provitamina B5 x 200 ml;3.521,00;4.260,41;7101,00
+16;Champú Provitamina B5 x 400 ml;5.537,30;6.700,13;11167,00
+20;Recuperador Balsámico B5 x200;3.521,00;4.260,41;7101,00
+21;Recuperador Balsámico B5 x400;5.400,01;6.534,01;10890,00
+27;Champú Recuperación P+T x280ml;4.235,86;5.125,39;8542,00
+28;Ampollas P+T Estuche 12x10ml;14.385,02;17.405,87;2417,00
+30;Champú P+T Caspa y Caída x200;5.406,78;6.542,21;10904,00
+31;Champú y Acondic. 2en1 P+T x200;4.994,95;6.043,89;10073,00
+33;Ampoll. Super Especial Est12x10;13.095,33;15.845,35;2201,00
+37;Ampollas Potenc.1007 Est12x10;13.789,78;16.685,63;2317,00
+41;Champú P+T p/la Seborrea x200m;4.295,28;5.197,29;8662,00
+43;Ampollas 1007 Estuche 12x10cc;13.095,33;15.845,35;2201,00
+44;Rocío Fijador Pant. y Silix150;3.952,23;4.782,19;7970,00
+45;Rocío Fijador Pant. y Sili. x400;5.784,21;6.998,90;11665,00
+58;"Nutri-Cream c/Vit. ""E"" x115gr";2.190,82;2.650,89;4418,00
+73;Ampolla Jojoba Estuche 16x10ml;8.173,56;9.890,01;1030,00
+80;Baño de Crema c/Jojoba x115gr;2.730,70;3.304,15;5507,00
+81;Baño de Crema c/Jojoba x250gr;4.506,83;5.453,27;9089,00
+89;Champú Reflejante Plata x150gr;4.943,82;5.982,02;9970,00
+95;Fija+Más 30 Vol.Hierbas x 75ml;1.010,15;1.222,29;2037,00
+96;Champú Tilo y Siliconas x250ml;3.116,75;3.771,27;6285,00
+104;Savia c/Salvia y Fil. Solar x400;3.032,65;3.669,51;6116,00
+105;Nutri-Serum Solar caja x 2x30g;5.572,13;6.742,28;11237,00
+107;Pantalla Cap. c/Proteínas x150;3.621,09;4.381,52;7303,00
+111;Color Vegetal Henna Tiziano;7.250,38;8.772,96;14622,00
+124;Champú Omega 3y6 c/Vit. B3 x400;4.354,37;5.268,78;8781,00
+125;Balsam Omega 3y6 c/Vit. B3 x200;2.919,13;3.532,15;5887,00
+127;"Nutri-Serum c/Vit. ""E"" estuc. x2";6.820,48;8.252,79;13755,00
+132;Champú Ácido ph,estuche 6x30g;10.573,49;12.793,92;3554,00
+133;Estructurante 011 Estuche 12x10;15.136,64;18.315,34;2544,00
+134;Estructurante 022 Estuche 12x10;13.789,78;16.685,63;2317,00
+136;Estructurante 033 Estuche 12x10;13.789,78;16.685,63;2317,00
+151;Spray Manzanilla Bifase x125ml;4.587,59;5.550,98;9252,00
+155;Ampollas 1019 Estuche 12x10cc;13.095,33;15.845,35;2201,00
+156;Cera de Brillo & Styling Pote;4.562,02;5.520,04;9200,00
+159;Loción Fijadora Modela. Amp.8x10;9.604,29;11.621,19;2421,00
+160;Loción Fijadora Modelante x120;3.020,27;3.654,53;6091,00
+163;Balsam Ginkgo Biloba Finos x200;2.651,54;3.208,37;5347,00
+164;Balsam Ginkgo Biloba Finos x400;4.419,24;5.347,28;8912,00
+166;Activador Cremoso 8 Vol.Sachet;486,52;588,69;981,00
+175;Mascarilla Glycoceramidas Pomo;2.843,93;3.441,16;5735,00
+183;Ampollas 1044 Estuche 12x10cc;13.095,33;15.845,35;2201,00
+184;SOS Nocturno Reg. Capilar 12x20;13.914,51;16.836,56;2338,00
+186;Tratamiento Nutric. S.O.S 12x20;15.873,13;19.206,48;2668,00
+187;Shampoo Nutricional S.O.Sx295;3.341,00;4.042,61;6738,00
+188;Balsam Nutricional S.O.S x295;3.286,23;3.976,34;6627,00
+192;Champú Anti-Age c/Magne.x255ml;3.519,17;4.258,20;7097,00
+194;Balsam Anti-Age c/Magne.x255ml;2.967,78;3.591,01;5985,00
+200;Baño Ultra Brillo Pomo x115gr;3.564,71;4.313,30;7189,00
+205;Removedor de Liendres x120g;5.064,32;6.127,83;10213,00
+208;Champú Manzana Verde x200ml;3.150,71;3.812,36;6354,00
+214;B.Crem R.Mosqueta Orgánicx125g;2.827,40;3.421,15;5702,00
+215;Champú Antioxidante Vita. x250;6.621,03;8.011,45;13352,00
+216;Champú Antioxidante Vita.x400;10.301,91;12.465,31;20776,00
+219;Champú+Acond+Gel de Niños x250m;3.724,86;4.507,08;7512,00
+223;Enjuague Final c/extr de Vinagre de Manzana x200g;2.529,78;3.061,03;5102,00
+229;Crema p/Peinar Teñidos x270gr;4.248,95;5.141,23;8569,00
+230;Protector Térmico Atomiza.x250;4.205,96;5.089,22;8482,00
+240;Estructu.055 Lino Estuche12x10;15.079,47;18.246,16;2534,00
+244;Champú Seco en Aerosol x170ml;4.882,09;5.907,32;9846,00
+245;Cristales Líquidos x22ml;7.723,71;9.345,69;15576,00
+251;Baño p/Cab.Tratado c/Color x115;3.736,80;4.521,53;7536,00
+253;Sistema Mantenimien. del color y brillo x12, 4x15g;24.900,97;30.130,17;4185,00
+262;Bioxidil Trat.p/la Caída 6x10m;16.492,52;19.955,95;33260,00
+263;Bioxidil Trat.p/la Caída x90ml;8.134,98;9.843,32;16406,00
+270;Balsam Te Verde Green Tea  x400;4.605,74;5.572,94;9288,00
+277;Champú Premium Bio-Humect.x255;5.315,84;6.432,17;10720,00
+278;Balsam Premium Bio-Humect.x255;5.076,09;6.142,07;10237,00
+279;Mascar.Premium Bio-Humect.x115;4.224,63;5.111,80;8520,00
+280;Champú Hidratante Rulos x300ml;4.761,94;5.761,94;9603,00
+286;Tratamiento Instant.Anti-Frizz;3.025,81;3.661,24;6102,00
+306;Óleo de Argan-Blister Exhibidor 1x10ml;4.260,27;5.154,93;8592,00
+324;Loción Tonificante Ortiga 16x10;7.524,86;9.105,09;948,00
+326;Complemento de Recuperación x12;15.374,08;18.602,63;2584,00
+337;Jabón Liq.Libre de Gluten x200ml;4.123,07;4.988,92;8315,00
+339;Crema Evanescente Biofer x125gr;5.043,60;6.102,76;10171,00
+346;Shampoo Acond. p/Caspa 1027x180;5.011,17;6.063,52;10106,00
+348;Ampollas 1027 Estuche 12x10ml;13.525,29;16.365,61;2273,00
+360;Champú Yerba Mate x200ml;2.951,56;3.571,39;5952,00
+363;Balsam Yerba Mate x200ml;2.902,91;3.512,52;5854,00
+373;Champú c/Extr.de Calafate x400;4.419,24;5.347,28;8912,00
+376;Balsam c/Extr.de Calafate x400;3.357,00;4.061,97;6770,00
+378;Champú p/Caspa Centella x200ml;5.432,82;6.573,71;10956,00
+390;Baño de Crema Antiquiebre x115;2.504,98;3.031,02;5052,00
+393;Mascar.Bio-Activ.c/Karite x100g;4.112,77;4.976,45;8294,00
+394;Champú Bio-Activ.c/Mango y Karité;6.195,04;7.496,00;12493,00
+398;Tratamiento P+T Graso Pla.x200;4.921,97;5.955,59;9926,00
+399;Tratamiento P+T Seco Pla.x200;4.921,97;5.955,59;9926,00
+406;Máscara Ultra Acondicionadora x24  de  20gr;15.873,13;19.206,48;1334,00
+419;Gel Styling Suave Azul c/Bambú;2.372,70;2.870,97;4785,00
+421;Gel Styling Rojo Fuerte;2.332,95;2.822,87;4705,00
+436;Champú Semilla de Lino x 800ml;5.993,46;7.252,09;12087,00
+443;Champú c/Bambú en Braile x400m;4.137,90;5.006,86;8345,00
+444;Balsam c/Bambú en Braile x400m;3.535,39;4.277,82;7130,00
+446;Loción con Cafeína Est.12x15ml;12.844,16;15.541,44;25902,00
+447;Blister de Cafeína x 1 Unidad;1.419,02;1.717,02;2862,00
+449;Champú p/Tratami.Alisado x400m;6.746,43;8.163,18;13605,00
+451;Balsam p/Tratami.Alisado x400ml;6.689,67;8.094,50;13491,00
+452;Crema de Tratam.c/Alisado x125g;4.819,81;5.831,97;9720,00
+453;Champú p/ Futuras Mamás x 360 ml;4.508,43;5.455,20;9092,00
+459;Shock de Kera.Oro-Caviar x12un;13.194,54;15.965,39;26609,00
+461;Champú Super Especial 1053x800;7.785,73;9.420,74;15701,00
+462;Desenredante para Pediculosis;4.952,08;5.992,02;9987,00
+468;Champú Algas Concentrado x130;2.294,76;2.776,66;4628,00
+469;Balsam Algas Conc.Doypackc x 40ml;2.400,17;2.904,21;4840,00
+476;Champú Aceite de Jojoba x800ml;5.844,80;7.072,21;11787,00
+479;Balsam con Ac.de Jojoba x800ml;6.149,75;7.441,19;12402,00
+480;Pack Concentrado Algas X 2 Unidades;3.843,52;4.650,66;7751,00
+489;Jabón Tocador 100%Vegano x90g;1.678,50;2.030,98;3385,00
+490;Fijador Neutralizante x150ml;1.670,39;2.021,17;3369,00
+491;Base Ondulación Amarilla x150ml;3.316,45;4.012,91;6688,00
+492;Base Ondulación Rosa x150ml;3.397,54;4.111,02;6852,00
+496;Baño de Crema 100% Vegano x125gr;2.645,52;3.201,08;5335,00
+615;Puro Henna Natural Dorado x 80 gr;9.267,59;11.213,78;18690,00
+616;Puro Henna Natural Castaño x 80 gr;9.267,59;11.213,78;18690,00
+628;Ampollas P+T Exhibidor x 3uds;3.665,13;4.434,80;7391,00
+637;Ampollas Potenc.1007 Exhibi.x3;3.155,93;3.818,68;6364,00
+659;Shock de Kera.Oro-Caviar 3x10m;3.040,91;3.679,50;6133,00
+695;Blister Ampolla Anti Age 3x10ml;3.429,98;4.150,27;6917,00
+932;Estructurante 011 Exhib.X 3uds;3.105,61;3.757,79;6263,00
+940;Estructurante 055 Exhib. X3uds;3.105,61;3.757,79;6263,00

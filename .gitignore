@@ -4,8 +4,6 @@ entorno_venv/
 # Ignorar archivos de configuración sensibles
 .env
 
-# Ignorar archivos de datos privados
-datasets/stands.csv
 
 # Ignorar archivos temporales
 __pycache__/

@@ -1,7 +1,36 @@
+import os
 import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+def load_env_file(file_path):
+    """Leer un archivo .env y cargar las variables en os.environ"""
+    if os.path.exists(file_path):
+        with open(file_path) as f:
+            for line in f:
+                # Ignorar líneas vacías y comentarios
+                line = line.strip()
+                if not line or line.startswith('#'):
+                    continue
+                # Dividir en clave y valor
+                key, value = line.split('=', 1)
+                os.environ[key] = value
+    else:
+        raise FileNotFoundError(f"El archivo {file_path} no existe.")
+
+# Ruta al archivo .env
+env_file = ".env"
+
+# Cargar las variables del archivo .env
+load_env_file(env_file)
+
+# Acceder a las variables de entorno
+data_file_path = os.getenv("DATA_FILE_PATH")
+api_key = os.getenv("API_KEY")
+
+# Probar si las variables se cargaron correctamente
+print(f"Ruta del archivo: {data_file_path}")
+print(f"Clave API: {api_key}")
 # Configuración inicial de Streamlit
 st.set_page_config(page_title="Análisis de Tiendas", layout="wide")
 
@@ -10,8 +39,10 @@ st.title("Análisis de Facturación y Ventas por Tienda")
 
 # Cargar el archivo automáticamente
 @st.cache_data
-def load_data():
-    return pd.read_csv('datasets/stands.csv', delimiter=";", usecols=[
+def load_data(file_path):
+    if not file_path or not os.path.exists(file_path):
+        raise FileNotFoundError(f"El archivo {file_path} no existe. Verifica la ruta en el archivo .env.")
+    return pd.read_csv(file_path, delimiter=";", usecols=[
         "Fecha", 
         "Origen - Base de datos",
         "Item - Cantidad",
@@ -31,7 +62,7 @@ def load_data():
     })
 
 # Cargar y procesar datos
-stands = load_data()
+stands = load_data(data_file_path)
 
 # Limpieza de datos
 stands.dropna(how='all', inplace=True)

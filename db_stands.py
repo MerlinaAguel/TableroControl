@@ -3,6 +3,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+data_file_path = st.secrets["DATA_FILE_PATH"]
+api_key = st.secrets["API_KEY"]
+
 def load_env_file(file_path):
     """Leer un archivo .env y cargar las variables en os.environ"""
     if os.path.exists(file_path):

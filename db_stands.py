@@ -3,8 +3,7 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
-data_file_path = st.secrets["DATA_FILE_PATH"]
-api_key = st.secrets["API_KEY"]
+data_file_path = "stands.csv"
 
 # Configuración inicial de Streamlit
 st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
@@ -13,9 +12,10 @@ st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
 st.title("Análisis de Facturación y Ventas por Tienda")
 
 # Cargar el archivo automáticamente usando la ruta desde los Secrets
+
 @st.cache_data
 def load_data(file_path):
-    if not file_path or not os.path.exists(file_path):
+    if not os.path.exists(file_path):
         raise FileNotFoundError(f"El archivo {file_path} no existe.")
     return pd.read_csv(file_path, delimiter=";", usecols=[
         "Fecha", 

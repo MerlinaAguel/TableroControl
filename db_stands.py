@@ -61,7 +61,6 @@ stands["Título"] = stands.apply(
     axis=1
 )
 
-
 stands['Tienda'] = stands['Tienda'].replace('JUNCAL', 'ALTOPALERMO')
 stands.sort_values(by=['Tienda', 'Fecha'], ascending=[True, True], inplace=True)
 

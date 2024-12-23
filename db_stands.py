@@ -8,25 +8,26 @@ st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
 
 data_file_path = "stands.csv"
 
-# Pedir un código de acceso
+# Verificar que el ACCESS_CODE esté configurado en los Secrets
 if "ACCESS_CODE" not in st.secrets:
     st.error("El código de acceso no está configurado en los Secrets de Streamlit.")
 else:
-    # Pedir el código de acceso al usuario, ocultando el texto con asteriscos
-    access_code = st.text_input(
-        "Por favor, introduce el código de acceso:", 
-        type="password"
-    )
+    # Manejar el estado de la sesión para el acceso
+    if "authenticated" not in st.session_state:
+        st.session_state.authenticated = False  # Inicializar como no autenticado
 
-    # Comparar el código introducido con el almacenado en los Secrets
-    if access_code == st.secrets["ACCESS_CODE"]:
-        st.success("Acceso concedido")
-        # Aquí va el resto del código de tu aplicación
-        st.title("Análisis de Facturación y Ventas")
-    elif access_code:
-        st.error("Acceso denegado. Introduce el código correcto.")
-
-
+    # Si no está autenticado, pedir el código de acceso
+    if not st.session_state.authenticated:
+        access_code = st.text_input(
+            "Por favor, introduce el código de acceso:",
+            type="password"  # Oculta el texto introducido
+        )
+        if access_code == st.secrets["ACCESS_CODE"]:
+            st.session_state.authenticated = True  # Marcar como autenticado
+            st.success("Acceso concedido")
+            st.experimental_rerun()  # Recargar la página para mostrar la aplicación
+        elif access_code:
+            st.error("Acceso denegado. Introduce el código correcto.")
 
 
 # Título del dashboard

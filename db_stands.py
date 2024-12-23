@@ -6,10 +6,24 @@ import streamlit as st
 data_file_path = "stands.csv"
 
 # Pedir un código de acceso
-access_code = st.text_input("Por favor, introduce el código de acceso:")
-if access_code == st.secrets["ACCESS_CODE"]:
-    st.success("Acceso concedido")
+if "ACCESS_CODE" not in st.secrets:
+    st.error("El código de acceso no está configurado en los Secrets de Streamlit.")
+else:
+    # Pedir el código de acceso al usuario, ocultando el texto con asteriscos
+    access_code = st.text_input(
+        "Por favor, introduce el código de acceso:", 
+        type="password"
+    )
 
+    # Comparar el código introducido con el almacenado en los Secrets
+    if access_code == st.secrets["ACCESS_CODE"]:
+        st.success("Acceso concedido")
+        # Aquí va el resto del código de tu aplicación
+        st.title("Análisis de Facturación y Ventas")
+    elif access_code:
+        st.error("Acceso denegado. Introduce el código correcto.")
+
+        
 # Configuración inicial de Streamlit
 st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
 

@@ -15,3 +15,11 @@ __pycache__/
 # Ignorar archivos y carpetas no deseados
 .DS_Store
 entorno_venv/
+.code-workspace/
+.code-workspace
+conecta.py
+datasets/
+.ipybn_checkpoints/
+dashboard.py
+table_stands.py
+table_products.py

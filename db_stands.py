@@ -3,6 +3,9 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 
+# Configuración inicial de Streamlit
+st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
+
 data_file_path = "stands.csv"
 
 # Pedir un código de acceso
@@ -23,9 +26,8 @@ else:
     elif access_code:
         st.error("Acceso denegado. Introduce el código correcto.")
 
-        
-# Configuración inicial de Streamlit
-st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
+
+
 
 # Título del dashboard
 st.title("Análisis de Facturación y Ventas por Tienda")

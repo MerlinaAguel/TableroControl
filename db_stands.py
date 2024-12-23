@@ -29,11 +29,6 @@ else:
         elif access_code:
             st.error("Acceso denegado. Introduce el código correcto.")
 
-    # Mostrar la aplicación solo si está autenticado
-    if st.session_state.authenticated:
-        st.title("Tablero de Control Biferdil")
-        st.write("Bienvenido a la aplicación. ¡Aquí están tus datos!")
-
     # Si ya está autenticado, mostrar la aplicación
     if st.session_state.authenticated:
         st.title("Tablero de Control Biferdil")

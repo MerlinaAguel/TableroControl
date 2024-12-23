@@ -1,0 +1,17 @@
+# Ignorar el entorno virtual
+entorno_venv/
+
+# Ignorar archivos de configuración sensibles
+.env
+
+# Ignorar archivos de datos privados
+datasets/stands.csv
+
+# Ignorar archivos temporales
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos y carpetas no deseados
+.DS_Store
+entorno_venv/

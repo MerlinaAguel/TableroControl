@@ -5,6 +5,11 @@ import streamlit as st
 
 data_file_path = "stands.csv"
 
+# Pedir un código de acceso
+access_code = st.text_input("Por favor, introduce el código de acceso:")
+if access_code == st.secrets["ACCESS_CODE"]:
+    st.success("Acceso concedido")
+
 # Configuración inicial de Streamlit
 st.set_page_config(page_title="Tablero de Control Biferdil", layout="wide")
 
@@ -50,7 +55,12 @@ money_columns = ['Precio_prod', 'Descuento', 'Precio_neto']
 stands[money_columns] = stands[money_columns].apply(lambda x: x.astype(str).str.split(',').str[0].astype(float), axis=0)
 
 stands['Cantidad'] = pd.to_numeric(stands['Cantidad'], errors='coerce')
-stands['Título'] = stands['Título'].str.split(' ', n=1).str[1]
+# Separar 'Título' solo si 'Tienda' no es 'PACÍFICO'
+stands["Título"] = stands.apply(
+    lambda row: row["Título"].split(" ", 1)[1] if row["Tienda"] != "PACÍFICO" else row["Título"], 
+    axis=1
+)
+
 
 stands['Tienda'] = stands['Tienda'].replace('JUNCAL', 'ALTOPALERMO')
 stands.sort_values(by=['Tienda', 'Fecha'], ascending=[True, True], inplace=True)

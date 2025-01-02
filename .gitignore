@@ -16,7 +16,12 @@ entorno_venv/
 .code-workspace/
 .code-workspace
 conecta.py
-datasets/
+datasets/ecommerce_board.csv
+datasets/ecommerce2.ipynb
+datasets/ecommerce_raw.csv
+datasets/precios-costos.csv
+datasets/products.csv
+datasets/ecommerce.csv	
 .ipybn_checkpoints/
 dashboard.py
 table_stands.py
